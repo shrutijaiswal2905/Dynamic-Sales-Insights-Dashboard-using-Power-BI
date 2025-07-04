@@ -49,7 +49,11 @@ In the age of digital commerce, understanding sales performance is critical for 
 
 ## 📸 Screenshots
 
-_You may add these in a `screenshots/` folder:_
+<p align="center">
+  <img width="700" alt="Power BI Online Sales Dashboard Screenshot" src="https://github.com/user-attachments/assets/b3889c51-8de6-4070-a401-ea3739e8c403" />
+</p>
+
+---
 
 - Dashboard home page with KPIs.
 - Product category drill-down view.
@@ -63,11 +67,10 @@ _You may add these in a `screenshots/` folder:_
 
 As Power BI files are often large and may not render natively on GitHub:
 
-🎥 **Watch the full interactive demo:** [YouTube Walkthrough](https://youtu.be/6cV3OwFrOkk?si=wvX74FywIOTk24F5)
 
 If you wish to explore the `.pbix` file:
 1. Download the Power BI Desktop application (free).
-2. Download the `OnlineSalesDashboard.pbix` file from this repository (or request via Google Drive if too large).
+2. Download the `ECOMMERCE SALES DASHBOARD.pbix` file from this repository.
 3. Open in Power BI Desktop and interact with slicers, drill-through, and visuals to explore insights.
 
 ---
@@ -94,9 +97,6 @@ To enhance the dashboard’s capabilities, potential improvements include:
 
 ---
 
-## 🏷️ Tags
-
-`Power BI` `Data Visualization` `Dashboard` `Sales Analysis` `Business Intelligence` `DAX` `Data Analytics`
 
 ---
 
