@@ -96,11 +96,7 @@ To enhance the dashboard’s capabilities, potential improvements include:
 ✅ Adds a **clean, demonstrable project** to your GitHub and resume portfolio.
 
 ---
-
-
----
-
 ## 🤝 Connect
 
-If you found this project insightful, feel free to connect with me on [LinkedIn](YOUR_LINKEDIN_LINK) for collaborations, discussions, or project ideas.
+If you found this project insightful, feel free to connect with me for collaborations, discussions, or project ideas.
 
