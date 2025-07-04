@@ -22,7 +22,6 @@ In the age of digital commerce, understanding sales performance is critical for 
 - **Pie charts** and **donut charts** for product share breakdown.
 - **Line charts** and **area charts** to track sales trends over time.
 - **Scatter charts** for correlation analysis (e.g., sales vs. profit).
-- **Maps** for region-wise sales visualization.
 - **Slicers and filters** for interactive drill-down and user-driven analysis.
 
 ---
@@ -93,8 +92,6 @@ To enhance the dashboard’s capabilities, potential improvements include:
 ✅ Demonstrates practical **Power BI skills** for data visualization and analytics.  
 ✅ Shows your capability to **transform raw sales data into actionable insights**.  
 ✅ Highlights **business intelligence skills** critical for data analyst and data visualization roles.  
-✅ Adds a **clean, demonstrable project** to your GitHub and resume portfolio.
-
 ---
 ## 🤝 Connect
 
